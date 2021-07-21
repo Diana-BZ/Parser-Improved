@@ -3,7 +3,6 @@
 
 Files:
 	hw4_run.sh
-		# Run all steps end-to-end
 	hw4_topcfg.sh
 	hw4_topcfg.py
 	hw4_parser.sh
